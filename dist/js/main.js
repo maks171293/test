@@ -1,0 +1,1 @@
+"use strict";console.log("hello world");var a=44;console.log("bye bye");
